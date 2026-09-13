@@ -1,6 +1,6 @@
 # Cinema Ticket Booking System
 
-![cinema](/cinema.gif)
+![cinema](https://github.com/mohankshetra/cinema-ticket-booking-system-main/blob/main/cinema.gif)
 
 Cinema Ticket Booking System is a web application built with React and Java Spring Boot 3.2, allowing users to browse, search, and book movie tickets seamlessly.
 
